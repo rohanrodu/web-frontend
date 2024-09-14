@@ -1,0 +1,7 @@
+1. Search Functionality: Added an input field in the header for searching products. The `searchProducts` function filters the products based on the input value.
+
+2. Product Details Modal: Clicking on a product image now triggers a modal that displays more details about the product. The `showDetails` function sets the content of the modal and displays it. The `closeModal` function hides the modal when the close button is clicked or when clicking outside the modal content.
+
+3. Responsive Design: Adjusted the CSS to ensure the layout is more responsive and looks good on smaller screens.
+
+You can expand on this template by adding more products, improving styling, or integrating with a backend to dynamically fetch and display products.
