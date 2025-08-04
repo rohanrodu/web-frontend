@@ -19,7 +19,6 @@ A simple and user-friendly **QR Code Generator** web application built using **H
 - HTML5  
 - CSS3 (Flexbox, animations)  
 - JavaScript (ES6+)  
-- [QRCode.js](https://github.com/davidshimjs/qrcodejs) (or any other QR code library used)
 
 ---
 
