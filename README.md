@@ -17,6 +17,19 @@ This repository contains a collection of **web development projects** built by m
 
 ---
 
+## 🚧 Projects 
+
+Here are a few projects included (check folders for full list):
+
+- 🤖 Chatbot Assistant
+- 🔊 Text-to-Speech Generator
+- ❌⭕ Tic-Tac-Toe Game
+- 👕 Clothing Store App
+- 🧠 Quiz App
+- 🔳 QR Code Generator 
+
+---
+
 ## 🛠 Technologies Used
 
 - HTML5  
