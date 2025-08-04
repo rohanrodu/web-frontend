@@ -33,5 +33,17 @@ qr-code-generator/
 
 ---
 
+🌱 Future Improvements
+Add support for customizing QR code size and color
+
+Implement error correction level options
+
+Add history of generated QR codes
+
+Integrate sharing options (email, social media)
+
+Enhance UI with themes or dark mode
+
+---
 
 If you want, I can also help generate the basic HTML, CSS, and JavaScript code for this QR code generator. Just let me know!
