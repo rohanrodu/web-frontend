@@ -8,8 +8,7 @@ A simple, interactive **Quiz Application** built with **HTML**, **CSS**, and **J
 
 - Multiple-choice questions with instant answer validation  
 - Score tracking and display at the end of the quiz  
-- User-friendly and responsive interface  
-- Timer feature (optional) to add challenge  
+- User-friendly and responsive interface   
 - Clean design with smooth transitions and animations
 
 ---
