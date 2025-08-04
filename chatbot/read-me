@@ -1,5 +1,0 @@
-Chatbot
-
-This chatbot is designed to assist you by completing commands such as opening Google or YouTube,providing accurate dates and times, and searching for information. Although it can’t directly interact with your device to perform these actions, it can guide you through the steps and offer support.
-
-You can enhance its functionality by including command messages with the relevant site links or functions in `script.js`.
