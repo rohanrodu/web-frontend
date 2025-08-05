@@ -26,7 +26,8 @@ Here are a few projects included (check folders for full list):
 - ❌⭕ Tic-Tac-Toe Game
 - 👕 Clothing Store App
 - 🧠 Quiz App
-- 🔳 QR Code Generator 
+- 🔳 QR Code Generator
+- 🐍 Snake Rush
 
 ---
 
