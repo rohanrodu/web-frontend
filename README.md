@@ -28,6 +28,8 @@ Here are a few projects included (check folders for full list):
 - 🧠 Quiz App
 - 🔳 QR Code Generator
 - 🐍 Snake Rush
+- 🎨 Color Palette Generator
+- 💬 Random Quote Generator
 
 ---
 
