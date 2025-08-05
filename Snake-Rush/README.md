@@ -34,7 +34,7 @@ SnakeRush/
 
 ---
 
-🔮 Future Improvements
+🔮 Future Improvements: 
 Here are some features that can be added in future updates:
 
 ✅ Restart Button
